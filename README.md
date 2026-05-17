@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm godfengliang
 
-<!--
-**godfengliang/godfengliang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build **browser-based creative tools** — single HTML file, zero dependencies, no signup required.
 
-Here are some ideas to get you started:
+## Web Tools (26 and counting)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Tool | Description | Try it |
+|------|-------------|--------|
+| **BillCraft** | Invoice generator with templates | [Demo](https://billcraft-demo.surge.sh/) |
+| **ScreenCap Studio** | Screenshot annotation | [Demo](https://screencap-studio.surge.sh/) |
+| **EnvGuard** | Code secret scanner | [Demo](https://envguard.surge.sh/) |
+| **PixelSqueeze** | Image compression to exact size | [Demo](https://pixelsqueeze.surge.sh/) |
+| **LeakScope** | Browser fingerprint detector | [Demo](https://leakscope.surge.sh/) |
+| **TimeSync** | Cross-timezone meeting planner | [Demo](https://timesync-tool.surge.sh/) |
+| **CommitSpice** | Git commit message roaster | [Demo](https://commitspice.surge.sh/) |
+| **JSONDiff** | Visual JSON comparison | [Demo](https://jsondiff-tool.surge.sh/) |
+| **DevCard** | GitHub profile card generator | [Demo](https://devcard-tool.surge.sh/) |
+| **CodeSnap** | Beautiful code screenshots | [Demo](https://codesnap-tool.surge.sh/) |
+| **CSSGen** | Visual CSS generator | [Demo](https://cssgen-tool.surge.sh/) |
+| **RegExr Lite** | Regex tester with live match | [Demo](https://regexr-lite.surge.sh/) |
+| **MarkdownEdit** | Markdown editor + themes | [Demo](https://markdownedit-tool.surge.sh/) |
+| **Base64 Tool** | Encode/decode Swiss army knife | [Demo](https://base64tool.surge.sh/) |
+| **ColorDrop** | Image color palette extractor | [Demo](https://colordrop-tool.surge.sh/) |
+| **BeatForge** | Browser drum machine + sequencer | [Demo](https://beatforge-drum.surge.sh/) |
+| **TerrainForge** | 3D procedural terrain generator | [Demo](https://terrainforge-3d.surge.sh/) |
+| **PixelForge** | Pixel art animation editor | [Demo](https://pixelforge-art.surge.sh/) |
+| **ParticleForge** | GPU particle system editor | [Demo](https://particleforge-gpu.surge.sh/) |
+| **WaveForge 3D** | 3D audio visualizer | [Demo](https://waveforge-3d.surge.sh/) |
+| **ShaderForge** | GLSL shader editor | [Demo](https://shaderforge-gl.surge.sh/) |
+| **MindForge** | Visual mind map editor | [Demo](https://mindforge-map.surge.sh/) |
+| **AnalogForge** | Browser analog synthesizer | [Demo](https://analogforge-synth.surge.sh/) |
+| **VoxelForge** | 3D voxel art editor | [Demo](https://voxelforge-3d.surge.sh/) |
+| **ChronoForge** | Gantt chart timeline editor | [Demo](https://chronoforge-timeline.surge.sh/) |
+| **FontForge** | Visual font inspector + specimen | [Demo](https://fontforge-inspect.surge.sh/) |
+
+## Tech Stack
+
+`HTML5` `CSS3` `JavaScript` `WebGL` `Three.js` `Web Audio API` `Canvas API` `Tailwind CSS` `GLSL`
+
+## Philosophy
+
+Every tool is a **single HTML file** with zero dependencies (except CDN libs). No backend, no signup, no tracking. Just open and use.
+
+---
+
+*Building tools until one goes viral.*
