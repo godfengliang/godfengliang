@@ -2,7 +2,7 @@
 
 I build **browser-based tools** — single HTML file, zero dependencies, no signup required.
 
-## Web Tools (31 and counting)
+## Web Tools (41 and counting)
 
 | Tool | Description | Try it |
 |------|-------------|--------|
@@ -37,6 +37,26 @@ I build **browser-based tools** — single HTML file, zero dependencies, no sign
 | **VoxelForge** | 3D voxel art editor | [Demo](https://voxelforge-3d.surge.sh/) |
 | **ChronoForge** | Gantt chart timeline editor | [Demo](https://chronoforge-timeline.surge.sh/) |
 | **FontForge** | Visual font inspector + specimen | [Demo](https://fontforge-inspect.surge.sh/) |
+| **MediaForge** | Batch image processing: compress/convert/resize/EXIF | [Demo](https://mediaforge.surge.sh/) |
+| **SVGForge** | SVG to PNG/JPEG/WebP converter | [Demo](https://svgforge.surge.sh/) |
+| **JWTForge** | JWT debugger: decode/encode/verify HMAC-SHA256 | [Demo](https://jwtforge.surge.sh/) |
+| **CronCraft** | Cron expression builder + next execution preview | [Demo](https://croncraft.surge.sh/) |
+| **LogForge** | Log sanitizer: auto-redact IPs/emails/API keys | [Demo](https://logforge.surge.sh/) |
+| **WeChatForge** | WeChat chat history formatter with search/stats | [Demo](https://wechatforge.surge.sh/) |
+| **TypeShift** | JSON to 10 language types (TS/Go/Rust/Python/etc) | [Demo](https://typeshift.surge.sh/) |
+| **IconForge** | Favicon/ICO/PWA icon generator | [Demo](https://iconforge.surge.sh/) |
+| **SFXForge** | 8-bit game sound effects, WAV export | [Demo](https://sfxforge.surge.sh/) |
+| **DungeonForge** | Procedural dungeon generator, PNG export | [Demo](https://dungeonforge.surge.sh/) |
+| **EnvForge** | .env file editor with multi-env tabs + diff | [Demo](https://envforge-editor.surge.sh/) |
+| **SQLForge** | In-browser SQLite query editor via WASM | [Demo](https://sqlforge-editor.surge.sh/) |
+| **OGForge** | Open Graph meta tag generator with social previews | [Demo](https://ogforge-meta.surge.sh/) |
+| **SnippetForge** | Release notes to beautiful image, 5 themes | [Demo](https://snippetforge-img.surge.sh/) |
+| **GitignoreForge** | .gitignore generator, 30+ tech stacks | [Demo](https://gitignore-forge.surge.sh/) |
+| **AccessForge** | Web accessibility checker, 25+ WCAG checks | [Demo](https://accessforge-check.surge.sh/) |
+| **RedactForge** | Document redaction: auto-detect PII, PDF export | [Demo](https://redactforge-tool.surge.sh/) |
+| **ShotForge** | App Store screenshot generator | [Demo](https://shotforge-app.surge.sh/) |
+| **SeoForge** | robots.txt + sitemap.xml generator | [Demo](https://seoforge-gen.surge.sh/) |
+| **ConvertForge** | Data format converter: CSV/JSON/YAML/XML/TOML/MD | [Demo](https://convertforge-data.surge.sh/) |
 
 ## Philosophy
 
