@@ -1,11 +1,16 @@
 # Hi, I'm godfengliang
 
-I build **browser-based creative tools** — single HTML file, zero dependencies, no signup required.
+I build **browser-based tools** — single HTML file, zero dependencies, no signup required.
 
-## Web Tools (26 and counting)
+## Web Tools (31 and counting)
 
 | Tool | Description | Try it |
 |------|-------------|--------|
+| **PDFForge** | PDF toolkit: merge, split, compress, rotate, extract | [Demo](https://pdfforge-tool.surge.sh/) |
+| **ResumeForge** | Markdown resume generator, ATS-compatible PDF | [Demo](https://resumeforge.surge.sh/) |
+| **CollageForge** | Image collage maker: grid, long image, free layout | [Demo](https://collageforge.surge.sh/) |
+| **MockForge** | Mock data generator, export JSON/CSV/SQL | [Demo](https://mockforge.surge.sh/) |
+| **QuoteForge** | Freelancer quote calculator with PDF export | [Demo](https://quoteforge.surge.sh/) |
 | **BillCraft** | Invoice generator with templates | [Demo](https://billcraft-demo.surge.sh/) |
 | **ScreenCap Studio** | Screenshot annotation | [Demo](https://screencap-studio.surge.sh/) |
 | **EnvGuard** | Code secret scanner | [Demo](https://envguard.surge.sh/) |
@@ -33,13 +38,9 @@ I build **browser-based creative tools** — single HTML file, zero dependencies
 | **ChronoForge** | Gantt chart timeline editor | [Demo](https://chronoforge-timeline.surge.sh/) |
 | **FontForge** | Visual font inspector + specimen | [Demo](https://fontforge-inspect.surge.sh/) |
 
-## Tech Stack
-
-`HTML5` `CSS3` `JavaScript` `WebGL` `Three.js` `Web Audio API` `Canvas API` `Tailwind CSS` `GLSL`
-
 ## Philosophy
 
-Every tool is a **single HTML file** with zero dependencies (except CDN libs). No backend, no signup, no tracking. Just open and use.
+Every tool is a **single HTML file** with zero backend. No signup, no tracking, no uploads. Privacy-first.
 
 ---
 
