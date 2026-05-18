@@ -2,7 +2,7 @@
 
 I build **browser-based tools** — single HTML file, zero dependencies, no signup required.
 
-## Web Tools (41 and counting)
+## Web Tools (46 and counting)
 
 | Tool | Description | Try it |
 |------|-------------|--------|
@@ -57,6 +57,12 @@ I build **browser-based tools** — single HTML file, zero dependencies, no sign
 | **ShotForge** | App Store screenshot generator | [Demo](https://shotforge-app.surge.sh/) |
 | **SeoForge** | robots.txt + sitemap.xml generator | [Demo](https://seoforge-gen.surge.sh/) |
 | **ConvertForge** | Data format converter: CSV/JSON/YAML/XML/TOML/MD | [Demo](https://convertforge-data.surge.sh/) |
+
+| **HashForge** | Hash/checksum generator: MD5/SHA/CRC32, HMAC, password gen | [Demo](https://hashforge-gen.surge.sh/) |
+| **DiffForge** | Visual text diff & merge: side-by-side, unified, inline | [Demo](https://diffforge-tool.surge.sh/) |
+| **QRForge** | QR code generator & scanner: text/URL/WiFi/vCard/batch | [Demo](https://qrforge-gen.surge.sh/) |
+| **PasteForge** | Code clipboard manager: save/search/tag, 16 languages | [Demo](https://pasteforge-code.surge.sh/) |
+| **RegexForge** | Regex builder & tester: live match, replace, code gen | [Demo](https://regexforge-builder.surge.sh/) |
 
 ## Philosophy
 
